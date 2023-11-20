@@ -1,4 +1,4 @@
-package com.xhj.member.member;
+package com.xhj.member;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
